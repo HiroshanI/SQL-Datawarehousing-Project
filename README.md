@@ -1,6 +1,6 @@
 # PostgreSQL Data-Warehouse Project 
 
-
+![Project Data Flow](./docs/data_flow.png)
 
 ## Setup
 ```
